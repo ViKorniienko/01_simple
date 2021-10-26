@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+}
+.wrapper {
+  max-width: 786px;
+  height: 659px;
+  margin: auto;
+}
+
+header{
+  margin: 29px 0 24px 8px;
+  background-color: #A42A2A;
+  color: white;
+  text-align: center;
+}
+
+main {
+  font-size: 18px;
+  margin: 0 0 34px 8px;
+}
+
+ul {
+  width: 825px;
+  height: 56px;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #0000FF;
+}
+.cars {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  padding: 0%;
+}
+
+.cars img {
+  border: dashed #000000;
+  border-width: 3.7px;
+  width: 70px;
+  height: 46px;
+}
+
+footer{
+  background-color: #000000;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  margin: 19px 0 31px 8px;
+}
+
